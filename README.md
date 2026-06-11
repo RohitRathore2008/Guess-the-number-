@@ -1,2 +1,2 @@
 # Guess-the-number-
-My projects
+Guess the number between 0 to 100
